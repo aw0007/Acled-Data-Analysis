@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import geopandas as gpd
 
 # File paths
-file_path = "C:\\Users\\massa\\Desktop\\MiniProjet\\Acled\\2021-12-14-2024-12-17.csv"
-output_folder = "C:\\Users\\massa\\Desktop\\MiniProjet\\Acled\\results"
+file_path = "........\\Acled\\2021-12-14-2024-12-17.csv"
+output_folder = "........\\Acled\\results"
 
 # Load the dataset
 data = pd.read_csv(file_path, delimiter=";", encoding="utf-8")
